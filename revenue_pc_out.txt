@@ -1,0 +1,12 @@
+Day,OPT Value,Choice
+0,0,None
+1,1000,Repair
+2,5000,Construction
+3,6000,Repair
+4,7000,Repair
+Final,7000,
+Plan,,
+1,,Prep
+2,,Construction
+3,,Repair
+4,,Repair
